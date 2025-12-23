@@ -135,3 +135,12 @@ FROM Staff
 WHERE job_title = 'Manager';
 --12. Display all guests and their reviews, even if some guests haven't submitted any reviews. 
 --ماعندنا review
+
+
+
+
+
+
+
+
+
